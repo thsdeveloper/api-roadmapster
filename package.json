@@ -1,0 +1,7 @@
+{
+  "name": "api-roadmapster",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Thiago Soares <thiago.soares@dasa.com.br>",
+  "license": "MIT"
+}
